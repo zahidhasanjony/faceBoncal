@@ -51,15 +51,21 @@ jobs:
           npx remotion still src/index.ts Main out/stills/04-ending.png --frame=7590 --overwrite
       - name: Render narrated H264 MP4, 1080x1920 at 60fps
         run: npm run render
+      - name: Install FFmpeg and ffprobe for final video validation
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffprobe -version
       - name: Check encoded video streams
         run: |
           ffprobe -v error -show_entries stream=codec_name,codec_type,width,height,r_frame_rate -show_entries format=duration -of json dist/EduTalk_BoneHealth_1080x1920.mp4
       - name: Upload MP4 and verification stills
+        if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: EduTalk_BoneHealth_1080x1920_60fps_Bangla
           path: |
             dist/EduTalk_BoneHealth_1080x1920.mp4
             out/stills/*.png
-          if-no-files-found: error
+          if-no-files-found: warn
           retention-days: 30
