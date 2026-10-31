@@ -1,0 +1,1 @@
+Hind Siliguri will be installed here by npm run fonts in GitHub Actions. Source: https://github.com/google/fonts/tree/main/ofl/hindsiliguri (SIL Open Font License 1.1). Not included in this source ZIP because external font download was unavailable at packaging time.

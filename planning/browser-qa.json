@@ -1,0 +1,32 @@
+{
+  "frameTargets": {
+    "hook": 47,
+    "wrong": 152,
+    "pills": 218,
+    "porous": 323,
+    "why": 449,
+    "war": 571,
+    "construction": 696,
+    "demolition": 896,
+    "rebuild": 1036,
+    "balance": 1240,
+    "sleep": 1433,
+    "use": 1572,
+    "chair": 1714,
+    "leave": 1933,
+    "risk": 2016,
+    "pain": 2203,
+    "lock": 2356,
+    "key": 2541,
+    "caution": 2725,
+    "three": 2826,
+    "walk": 2943,
+    "work": 3166,
+    "sun": 3304,
+    "food": 3486,
+    "final": 3613,
+    "cta": 3786
+  },
+  "errors": [],
+  "warnings": []
+}

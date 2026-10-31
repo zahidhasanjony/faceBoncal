@@ -1,0 +1,1197 @@
+{
+  "schemaVersion": 1,
+  "source": "script.srt",
+  "fps": 30,
+  "cueCount": 47,
+  "maxEndMs": 129116,
+  "audioDurationMs": 129307,
+  "compositionDurationInFrames": 3880,
+  "cues": [
+    {
+      "blockOrdinal": 1,
+      "sourceIndex": 1,
+      "sourceIndexText": "1",
+      "timestampLine": "00:00:00,050 --> 00:00:04,223",
+      "startTimestamp": "00:00:00,050 ",
+      "endTimestamp": " 00:00:04,223",
+      "startMs": 50,
+      "endMs": 4223,
+      "startFrame": 2,
+      "endFrameExclusive": 127,
+      "durationInFrames": 125,
+      "text": "আপনি কি ভাবছেন, শরীরে শুধু ক্যালসিয়ামের অভাবেই হাড় ক্ষয় হয়?",
+      "rawBlock": "1\n00:00:00,050 --> 00:00:04,223\nআপনি কি ভাবছেন, শরীরে শুধু ক্যালসিয়ামের অভাবেই হাড় ক্ষয় হয়?\n"
+    },
+    {
+      "blockOrdinal": 2,
+      "sourceIndex": 2,
+      "sourceIndexText": "2",
+      "timestampLine": "00:00:04,293 --> 00:00:05,645",
+      "startTimestamp": "00:00:04,293 ",
+      "endTimestamp": " 00:00:05,645",
+      "startMs": 4293,
+      "endMs": 5645,
+      "startFrame": 129,
+      "endFrameExclusive": 169,
+      "durationInFrames": 40,
+      "text": "একদম ভুল!",
+      "rawBlock": "2\n00:00:04,293 --> 00:00:05,645\nএকদম ভুল!\n"
+    },
+    {
+      "blockOrdinal": 3,
+      "sourceIndex": 3,
+      "sourceIndexText": "3",
+      "timestampLine": "00:00:05,715 --> 00:00:09,141",
+      "startTimestamp": "00:00:05,715 ",
+      "endTimestamp": " 00:00:09,141",
+      "startMs": 5715,
+      "endMs": 9141,
+      "startFrame": 171,
+      "endFrameExclusive": 274,
+      "durationInFrames": 103,
+      "text": "আপনি যদি প্রতিদিন মুঠো মুঠো ক্যালসিয়াম ট্যাবলেটও খান,",
+      "rawBlock": "3\n00:00:05,715 --> 00:00:09,141\nআপনি যদি প্রতিদিন মুঠো মুঠো ক্যালসিয়াম ট্যাবলেটও খান,\n"
+    },
+    {
+      "blockOrdinal": 4,
+      "sourceIndex": 4,
+      "sourceIndexText": "4",
+      "timestampLine": "00:00:09,211 --> 00:00:13,343",
+      "startTimestamp": "00:00:09,211 ",
+      "endTimestamp": " 00:00:13,343",
+      "startMs": 9211,
+      "endMs": 13343,
+      "startFrame": 276,
+      "endFrameExclusive": 400,
+      "durationInFrames": 124,
+      "text": "তবুও আপনার হাড় ভেতর থেকে ঘুণে ধরা কাঠের মতো ঝাঁঝরা হয়ে যেতে পারে।",
+      "rawBlock": "4\n00:00:09,211 --> 00:00:13,343\nতবুও আপনার হাড় ভেতর থেকে ঘুণে ধরা কাঠের মতো ঝাঁঝরা হয়ে যেতে পারে।\n"
+    },
+    {
+      "blockOrdinal": 5,
+      "sourceIndex": 5,
+      "sourceIndexText": "5",
+      "timestampLine": "00:00:13,413 --> 00:00:14,367",
+      "startTimestamp": "00:00:13,413 ",
+      "endTimestamp": " 00:00:14,367",
+      "startMs": 13413,
+      "endMs": 14367,
+      "startFrame": 402,
+      "endFrameExclusive": 431,
+      "durationInFrames": 29,
+      "text": "কিন্তু কেন?",
+      "rawBlock": "5\n00:00:13,413 --> 00:00:14,367\nকিন্তু কেন?\n"
+    },
+    {
+      "blockOrdinal": 6,
+      "sourceIndex": 6,
+      "sourceIndexText": "6",
+      "timestampLine": "00:00:14,437 --> 00:00:17,410",
+      "startTimestamp": "00:00:14,437 ",
+      "endTimestamp": " 00:00:17,410",
+      "startMs": 14437,
+      "endMs": 17410,
+      "startFrame": 433,
+      "endFrameExclusive": 522,
+      "durationInFrames": 89,
+      "text": "কারণ আসল সমস্যা ক্যালসিয়ামে নয়।",
+      "rawBlock": "6\n00:00:14,437 --> 00:00:17,410\nকারণ আসল সমস্যা ক্যালসিয়ামে নয়।\n"
+    },
+    {
+      "blockOrdinal": 7,
+      "sourceIndex": 7,
+      "sourceIndexText": "7",
+      "timestampLine": "00:00:17,480 --> 00:00:21,563",
+      "startTimestamp": "00:00:17,480 ",
+      "endTimestamp": " 00:00:21,563",
+      "startMs": 17480,
+      "endMs": 21563,
+      "startFrame": 524,
+      "endFrameExclusive": 647,
+      "durationInFrames": 123,
+      "text": "সমস্যা আপনার হাড়ের ভেতরে থাকা দুই দল মিস্ত্রির গোপন যুদ্ধে!",
+      "rawBlock": "7\n00:00:17,480 --> 00:00:21,563\nসমস্যা আপনার হাড়ের ভেতরে থাকা দুই দল মিস্ত্রির গোপন যুদ্ধে!\n"
+    },
+    {
+      "blockOrdinal": 8,
+      "sourceIndex": 8,
+      "sourceIndexText": "8",
+      "timestampLine": "00:00:21,633 --> 00:00:24,045",
+      "startTimestamp": "00:00:21,633 ",
+      "endTimestamp": " 00:00:24,045",
+      "startMs": 21633,
+      "endMs": 24045,
+      "startFrame": 649,
+      "endFrameExclusive": 721,
+      "durationInFrames": 72,
+      "text": "আমাদের হাড় কোনো শুকনো মরা কাঠ নয়।",
+      "rawBlock": "8\n00:00:21,633 --> 00:00:24,045\nআমাদের হাড় কোনো শুকনো মরা কাঠ নয়।\n"
+    },
+    {
+      "blockOrdinal": 9,
+      "sourceIndex": 9,
+      "sourceIndexText": "9",
+      "timestampLine": "00:00:24,115 --> 00:00:28,226",
+      "startTimestamp": "00:00:24,115 ",
+      "endTimestamp": " 00:00:28,226",
+      "startMs": 24115,
+      "endMs": 28226,
+      "startFrame": 723,
+      "endFrameExclusive": 847,
+      "durationInFrames": 124,
+      "text": "এটি চব্বিশ ঘণ্টা চলতে থাকা একটি কনস্ট্রাকশন সাইট।",
+      "rawBlock": "9\n00:00:24,115 --> 00:00:28,226\nএটি চব্বিশ ঘণ্টা চলতে থাকা একটি কনস্ট্রাকশন সাইট।\n"
+    },
+    {
+      "blockOrdinal": 10,
+      "sourceIndex": 10,
+      "sourceIndexText": "10",
+      "timestampLine": "00:00:28,296 --> 00:00:32,896",
+      "startTimestamp": "00:00:28,296 ",
+      "endTimestamp": " 00:00:32,896",
+      "startMs": 28296,
+      "endMs": 32896,
+      "startFrame": 849,
+      "endFrameExclusive": 987,
+      "durationInFrames": 138,
+      "text": "এর ভেতরে ভাঙচুর দল প্রতিদিন পুরোনো, ফাটল ধরা হাড় ভেঙে পরিষ্কার করে।",
+      "rawBlock": "10\n00:00:28,296 --> 00:00:32,896\nএর ভেতরে ভাঙচুর দল প্রতিদিন পুরোনো, ফাটল ধরা হাড় ভেঙে পরিষ্কার করে।\n"
+    },
+    {
+      "blockOrdinal": 11,
+      "sourceIndex": 11,
+      "sourceIndexText": "11",
+      "timestampLine": "00:00:32,966 --> 00:00:37,018",
+      "startTimestamp": "00:00:32,966 ",
+      "endTimestamp": " 00:00:37,018",
+      "startMs": 32966,
+      "endMs": 37018,
+      "startFrame": 989,
+      "endFrameExclusive": 1111,
+      "durationInFrames": 122,
+      "text": "আর সাথে সাথেই রাজমিস্ত্রি দল সেখানে নতুন ক্যালসিয়ামের সিমেন্ট বসিয়ে",
+      "rawBlock": "11\n00:00:32,966 --> 00:00:37,018\nআর সাথে সাথেই রাজমিস্ত্রি দল সেখানে নতুন ক্যালসিয়ামের সিমেন্ট বসিয়ে\n"
+    },
+    {
+      "blockOrdinal": 12,
+      "sourceIndex": 12,
+      "sourceIndexText": "12",
+      "timestampLine": "00:00:37,088 --> 00:00:39,681",
+      "startTimestamp": "00:00:37,088 ",
+      "endTimestamp": " 00:00:39,681",
+      "startMs": 37088,
+      "endMs": 39681,
+      "startFrame": 1113,
+      "endFrameExclusive": 1190,
+      "durationInFrames": 77,
+      "text": "হাড়কে নতুনের মতো মজবুত করে তোলে।",
+      "rawBlock": "12\n00:00:37,088 --> 00:00:39,681\nহাড়কে নতুনের মতো মজবুত করে তোলে।\n"
+    },
+    {
+      "blockOrdinal": 13,
+      "sourceIndex": 13,
+      "sourceIndexText": "13",
+      "timestampLine": "00:00:39,751 --> 00:00:42,447",
+      "startTimestamp": "00:00:39,751 ",
+      "endTimestamp": " 00:00:42,447",
+      "startMs": 39751,
+      "endMs": 42447,
+      "startFrame": 1193,
+      "endFrameExclusive": 1273,
+      "durationInFrames": 80,
+      "text": "ত্রিশ বছর বয়স পর্যন্ত এই রাজমিস্ত্রিরা",
+      "rawBlock": "13\n00:00:39,751 --> 00:00:42,447\nত্রিশ বছর বয়স পর্যন্ত এই রাজমিস্ত্রিরা\n"
+    },
+    {
+      "blockOrdinal": 14,
+      "sourceIndex": 14,
+      "sourceIndexText": "14",
+      "timestampLine": "00:00:42,517 --> 00:00:46,141",
+      "startTimestamp": "00:00:42,517 ",
+      "endTimestamp": " 00:00:46,141",
+      "startMs": 42517,
+      "endMs": 46141,
+      "startFrame": 1276,
+      "endFrameExclusive": 1384,
+      "durationInFrames": 108,
+      "text": "ভাঙচুর দলের চেয়ে অনেক বেশি গতিতে কাজ করে।",
+      "rawBlock": "14\n00:00:42,517 --> 00:00:46,141\nভাঙচুর দলের চেয়ে অনেক বেশি গতিতে কাজ করে।\n"
+    },
+    {
+      "blockOrdinal": 15,
+      "sourceIndex": 15,
+      "sourceIndexText": "15",
+      "timestampLine": "00:00:46,211 --> 00:00:47,139",
+      "startTimestamp": "00:00:46,211 ",
+      "endTimestamp": " 00:00:47,139",
+      "startMs": 46211,
+      "endMs": 47139,
+      "startFrame": 1386,
+      "endFrameExclusive": 1414,
+      "durationInFrames": 28,
+      "text": "কিন্তু বয়স ত্রিশ পেরোলে,",
+      "rawBlock": "15\n00:00:46,211 --> 00:00:47,139\nকিন্তু বয়স ত্রিশ পেরোলে,\n"
+    },
+    {
+      "blockOrdinal": 16,
+      "sourceIndex": 16,
+      "sourceIndexText": "16",
+      "timestampLine": "00:00:47,139 --> 00:00:50,754",
+      "startTimestamp": "00:00:47,139 ",
+      "endTimestamp": " 00:00:50,754",
+      "startMs": 47139,
+      "endMs": 50754,
+      "startFrame": 1414,
+      "endFrameExclusive": 1523,
+      "durationInFrames": 109,
+      "text": "আমাদেরই এক নীরব ভুলে এই রাজমিস্ত্রিরা ঘুমিয়ে পড়ে!",
+      "rawBlock": "16\n00:00:47,139 --> 00:00:50,754\nআমাদেরই এক নীরব ভুলে এই রাজমিস্ত্রিরা ঘুমিয়ে পড়ে!\n"
+    },
+    {
+      "blockOrdinal": 17,
+      "sourceIndex": 17,
+      "sourceIndexText": "17",
+      "timestampLine": "00:00:50,824 --> 00:00:52,944",
+      "startTimestamp": "00:00:50,824 ",
+      "endTimestamp": " 00:00:52,944",
+      "startMs": 50824,
+      "endMs": 52944,
+      "startFrame": 1525,
+      "endFrameExclusive": 1588,
+      "durationInFrames": 63,
+      "text": "আমাদের হাড়ের একটা অদ্ভুত নিয়ম আছে,",
+      "rawBlock": "17\n00:00:50,824 --> 00:00:52,944\nআমাদের হাড়ের একটা অদ্ভুত নিয়ম আছে,\n"
+    },
+    {
+      "blockOrdinal": 18,
+      "sourceIndex": 18,
+      "sourceIndexText": "18",
+      "timestampLine": "00:00:53,014 --> 00:00:55,498",
+      "startTimestamp": "00:00:53,014 ",
+      "endTimestamp": " 00:00:55,498",
+      "startMs": 53014,
+      "endMs": 55498,
+      "startFrame": 1590,
+      "endFrameExclusive": 1665,
+      "durationInFrames": 75,
+      "text": "যাকে বলে, ইউজ ইট অর লুজ ইট।",
+      "rawBlock": "18\n00:00:53,014 --> 00:00:55,498\nযাকে বলে, ইউজ ইট অর লুজ ইট।\n"
+    },
+    {
+      "blockOrdinal": 19,
+      "sourceIndex": 19,
+      "sourceIndexText": "19",
+      "timestampLine": "00:00:55,568 --> 00:00:57,695",
+      "startTimestamp": "00:00:55,568 ",
+      "endTimestamp": " 00:00:57,695",
+      "startMs": 55568,
+      "endMs": 57695,
+      "startFrame": 1667,
+      "endFrameExclusive": 1731,
+      "durationInFrames": 64,
+      "text": "আপনি যখন সারাদিন চেয়ারে বসে থাকেন",
+      "rawBlock": "19\n00:00:55,568 --> 00:00:57,695\nআপনি যখন সারাদিন চেয়ারে বসে থাকেন\n"
+    },
+    {
+      "blockOrdinal": 20,
+      "sourceIndex": 20,
+      "sourceIndexText": "20",
+      "timestampLine": "00:00:57,765 --> 00:00:59,546",
+      "startTimestamp": "00:00:57,765 ",
+      "endTimestamp": " 00:00:59,546",
+      "startMs": 57765,
+      "endMs": 59546,
+      "startFrame": 1733,
+      "endFrameExclusive": 1786,
+      "durationInFrames": 53,
+      "text": "এবং শরীরে কোনো ভার বা চাপ পড়ে না,",
+      "rawBlock": "20\n00:00:57,765 --> 00:00:59,546\nএবং শরীরে কোনো ভার বা চাপ পড়ে না,\n"
+    },
+    {
+      "blockOrdinal": 21,
+      "sourceIndex": 21,
+      "sourceIndexText": "21",
+      "timestampLine": "00:00:59,616 --> 00:01:02,893",
+      "startTimestamp": "00:00:59,616 ",
+      "endTimestamp": " 00:01:02,893",
+      "startMs": 59616,
+      "endMs": 62893,
+      "startFrame": 1788,
+      "endFrameExclusive": 1887,
+      "durationInFrames": 99,
+      "text": "তখন মস্তিষ্ক ভাবে, এই হাড়ের তো কোনো কাজই নেই!",
+      "rawBlock": "21\n00:00:59,616 --> 00:01:02,893\nতখন মস্তিষ্ক ভাবে, এই হাড়ের তো কোনো কাজই নেই!\n"
+    },
+    {
+      "blockOrdinal": 22,
+      "sourceIndex": 22,
+      "sourceIndexText": "22",
+      "timestampLine": "00:01:02,963 --> 00:01:05,557",
+      "startTimestamp": "00:01:02,963 ",
+      "endTimestamp": " 00:01:05,557",
+      "startMs": 62963,
+      "endMs": 65557,
+      "startFrame": 1889,
+      "endFrameExclusive": 1967,
+      "durationInFrames": 78,
+      "text": "তাই সে রাজমিস্ত্রিদের ছুটি দিয়ে দেয়।",
+      "rawBlock": "22\n00:01:02,963 --> 00:01:05,557\nতাই সে রাজমিস্ত্রিদের ছুটি দিয়ে দেয়।\n"
+    },
+    {
+      "blockOrdinal": 23,
+      "sourceIndex": 23,
+      "sourceIndexText": "23",
+      "timestampLine": "00:01:05,627 --> 00:01:08,405",
+      "startTimestamp": "00:01:05,627 ",
+      "endTimestamp": " 00:01:08,405",
+      "startMs": 65627,
+      "endMs": 68405,
+      "startFrame": 1969,
+      "endFrameExclusive": 2052,
+      "durationInFrames": 83,
+      "text": "অথচ ওদিকে অতিরিক্ত চিনি, ধূমপান বা হরমোনের ঘাটতিতে",
+      "rawBlock": "23\n00:01:05,627 --> 00:01:08,405\nঅথচ ওদিকে অতিরিক্ত চিনি, ধূমপান বা হরমোনের ঘাটতিতে\n"
+    },
+    {
+      "blockOrdinal": 24,
+      "sourceIndex": 24,
+      "sourceIndexText": "24",
+      "timestampLine": "00:01:08,475 --> 00:01:11,780",
+      "startTimestamp": "00:01:08,475 ",
+      "endTimestamp": " 00:01:11,780",
+      "startMs": 68475,
+      "endMs": 71780,
+      "startFrame": 2054,
+      "endFrameExclusive": 2153,
+      "durationInFrames": 99,
+      "text": "ভাঙচুর দল দ্বিগুণ গতিতে হাড় খুঁড়তে থাকে।",
+      "rawBlock": "24\n00:01:08,475 --> 00:01:11,780\nভাঙচুর দল দ্বিগুণ গতিতে হাড় খুঁড়তে থাকে।\n"
+    },
+    {
+      "blockOrdinal": 25,
+      "sourceIndex": 25,
+      "sourceIndexText": "25",
+      "timestampLine": "00:01:11,850 --> 00:01:14,159",
+      "startTimestamp": "00:01:11,850 ",
+      "endTimestamp": " 00:01:14,159",
+      "startMs": 71850,
+      "endMs": 74159,
+      "startFrame": 2156,
+      "endFrameExclusive": 2225,
+      "durationInFrames": 69,
+      "text": "আর ঠিক তখনই হাঁটু বা কোমরে ব্যথা শুরু হলে",
+      "rawBlock": "25\n00:01:11,850 --> 00:01:14,159\nআর ঠিক তখনই হাঁটু বা কোমরে ব্যথা শুরু হলে\n"
+    },
+    {
+      "blockOrdinal": 26,
+      "sourceIndex": 26,
+      "sourceIndexText": "26",
+      "timestampLine": "00:01:14,229 --> 00:01:16,897",
+      "startTimestamp": "00:01:14,229 ",
+      "endTimestamp": " 00:01:16,897",
+      "startMs": 74229,
+      "endMs": 76897,
+      "startFrame": 2227,
+      "endFrameExclusive": 2307,
+      "durationInFrames": 80,
+      "text": "আমরা ক্যালসিয়াম খাওয়া শুরু করি।",
+      "rawBlock": "26\n00:01:14,229 --> 00:01:16,897\nআমরা ক্যালসিয়াম খাওয়া শুরু করি।\n"
+    },
+    {
+      "blockOrdinal": 27,
+      "sourceIndex": 27,
+      "sourceIndexText": "27",
+      "timestampLine": "00:01:16,967 --> 00:01:20,530",
+      "startTimestamp": "00:01:16,967 ",
+      "endTimestamp": " 00:01:20,530",
+      "startMs": 76967,
+      "endMs": 80530,
+      "startFrame": 2309,
+      "endFrameExclusive": 2416,
+      "durationInFrames": 107,
+      "text": "কিন্তু সমস্যা হলো, হাড়ের গোডাউনের দরজায় একটি তালা ঝুলানো থাকে,",
+      "rawBlock": "27\n00:01:16,967 --> 00:01:20,530\nকিন্তু সমস্যা হলো, হাড়ের গোডাউনের দরজায় একটি তালা ঝুলানো থাকে,\n"
+    },
+    {
+      "blockOrdinal": 28,
+      "sourceIndex": 28,
+      "sourceIndexText": "28",
+      "timestampLine": "00:01:20,600 --> 00:01:23,078",
+      "startTimestamp": "00:01:20,600 ",
+      "endTimestamp": " 00:01:23,078",
+      "startMs": 80600,
+      "endMs": 83078,
+      "startFrame": 2418,
+      "endFrameExclusive": 2492,
+      "durationInFrames": 74,
+      "text": "যার একমাত্র চাবি হলো ভিটামিন ডি।",
+      "rawBlock": "28\n00:01:20,600 --> 00:01:23,078\nযার একমাত্র চাবি হলো ভিটামিন ডি।\n"
+    },
+    {
+      "blockOrdinal": 29,
+      "sourceIndex": 29,
+      "sourceIndexText": "29",
+      "timestampLine": "00:01:23,148 --> 00:01:24,509",
+      "startTimestamp": "00:01:23,148 ",
+      "endTimestamp": " 00:01:24,509",
+      "startMs": 83148,
+      "endMs": 84509,
+      "startFrame": 2494,
+      "endFrameExclusive": 2535,
+      "durationInFrames": 41,
+      "text": "আপনার শরীরে যদি এই চাবি না থাকে,",
+      "rawBlock": "29\n00:01:23,148 --> 00:01:24,509\nআপনার শরীরে যদি এই চাবি না থাকে,\n"
+    },
+    {
+      "blockOrdinal": 30,
+      "sourceIndex": 30,
+      "sourceIndexText": "30",
+      "timestampLine": "00:01:24,579 --> 00:01:26,755",
+      "startTimestamp": "00:01:24,579 ",
+      "endTimestamp": " 00:01:26,755",
+      "startMs": 84579,
+      "endMs": 86755,
+      "startFrame": 2537,
+      "endFrameExclusive": 2603,
+      "durationInFrames": 66,
+      "text": "তবে যত দামি ক্যালসিয়ামই খান না কেন,",
+      "rawBlock": "30\n00:01:24,579 --> 00:01:26,755\nতবে যত দামি ক্যালসিয়ামই খান না কেন,\n"
+    },
+    {
+      "blockOrdinal": 31,
+      "sourceIndex": 31,
+      "sourceIndexText": "31",
+      "timestampLine": "00:01:26,825 --> 00:01:29,206",
+      "startTimestamp": "00:01:26,825 ",
+      "endTimestamp": " 00:01:29,206",
+      "startMs": 86825,
+      "endMs": 89206,
+      "startFrame": 2605,
+      "endFrameExclusive": 2676,
+      "durationInFrames": 71,
+      "text": "তা হাড়ে ঢুকতেই পারবে না।",
+      "rawBlock": "31\n00:01:26,825 --> 00:01:29,206\nতা হাড়ে ঢুকতেই পারবে না।\n"
+    },
+    {
+      "blockOrdinal": 32,
+      "sourceIndex": 32,
+      "sourceIndexText": "32",
+      "timestampLine": "00:01:29,276 --> 00:01:32,553",
+      "startTimestamp": "00:01:29,276 ",
+      "endTimestamp": " 00:01:32,553",
+      "startMs": 89276,
+      "endMs": 92553,
+      "startFrame": 2678,
+      "endFrameExclusive": 2777,
+      "durationInFrames": 99,
+      "text": "উল্টো রক্তনালী বা কিডনিতে গিয়ে পাথর হয়ে জমবে!",
+      "rawBlock": "32\n00:01:29,276 --> 00:01:32,553\nউল্টো রক্তনালী বা কিডনিতে গিয়ে পাথর হয়ে জমবে!\n"
+    },
+    {
+      "blockOrdinal": 33,
+      "sourceIndex": 33,
+      "sourceIndexText": "33",
+      "timestampLine": "00:01:32,623 --> 00:01:34,171",
+      "startTimestamp": "00:01:32,623 ",
+      "endTimestamp": " 00:01:34,171",
+      "startMs": 92623,
+      "endMs": 94171,
+      "startFrame": 2779,
+      "endFrameExclusive": 2825,
+      "durationInFrames": 46,
+      "text": "তাই হাড়ের ক্ষয় উল্টে দিতে",
+      "rawBlock": "33\n00:01:32,623 --> 00:01:34,171\nতাই হাড়ের ক্ষয় উল্টে দিতে\n"
+    },
+    {
+      "blockOrdinal": 34,
+      "sourceIndex": 34,
+      "sourceIndexText": "34",
+      "timestampLine": "00:01:34,241 --> 00:01:36,465",
+      "startTimestamp": "00:01:34,241 ",
+      "endTimestamp": " 00:01:36,465",
+      "startMs": 94241,
+      "endMs": 96465,
+      "startFrame": 2827,
+      "endFrameExclusive": 2894,
+      "durationInFrames": 67,
+      "text": "আজ থেকে এই তিনটি কাজ একসাথে করুন।",
+      "rawBlock": "34\n00:01:34,241 --> 00:01:36,465\nআজ থেকে এই তিনটি কাজ একসাথে করুন।\n"
+    },
+    {
+      "blockOrdinal": 35,
+      "sourceIndex": 35,
+      "sourceIndexText": "35",
+      "timestampLine": "00:01:36,535 --> 00:01:39,032",
+      "startTimestamp": "00:01:36,535 ",
+      "endTimestamp": " 00:01:39,032",
+      "startMs": 96535,
+      "endMs": 99032,
+      "startFrame": 2896,
+      "endFrameExclusive": 2971,
+      "durationInFrames": 75,
+      "text": "এক। ঘুমন্ত রাজমিস্ত্রিদের জাগাতে",
+      "rawBlock": "35\n00:01:36,535 --> 00:01:39,032\nএক। ঘুমন্ত রাজমিস্ত্রিদের জাগাতে\n"
+    },
+    {
+      "blockOrdinal": 36,
+      "sourceIndex": 36,
+      "sourceIndexText": "36",
+      "timestampLine": "00:01:39,102 --> 00:01:41,781",
+      "startTimestamp": "00:01:39,102 ",
+      "endTimestamp": " 00:01:41,781",
+      "startMs": 99102,
+      "endMs": 101781,
+      "startFrame": 2973,
+      "endFrameExclusive": 3053,
+      "durationInFrames": 80,
+      "text": "প্রতিদিন অন্তত বিশ মিনিট দ্রুত হাঁটুন,",
+      "rawBlock": "36\n00:01:39,102 --> 00:01:41,781\nপ্রতিদিন অন্তত বিশ মিনিট দ্রুত হাঁটুন,\n"
+    },
+    {
+      "blockOrdinal": 37,
+      "sourceIndex": 37,
+      "sourceIndexText": "37",
+      "timestampLine": "00:01:41,851 --> 00:01:43,890",
+      "startTimestamp": "00:01:41,851 ",
+      "endTimestamp": " 00:01:43,890",
+      "startMs": 101851,
+      "endMs": 103890,
+      "startFrame": 3056,
+      "endFrameExclusive": 3117,
+      "durationInFrames": 61,
+      "text": "সিঁড়ি ভাঙুন বা হালকা ওজন তুলুন।",
+      "rawBlock": "37\n00:01:41,851 --> 00:01:43,890\nসিঁড়ি ভাঙুন বা হালকা ওজন তুলুন।\n"
+    },
+    {
+      "blockOrdinal": 38,
+      "sourceIndex": 38,
+      "sourceIndexText": "38",
+      "timestampLine": "00:01:43,960 --> 00:01:45,273",
+      "startTimestamp": "00:01:43,960 ",
+      "endTimestamp": " 00:01:45,273",
+      "startMs": 103960,
+      "endMs": 105273,
+      "startFrame": 3119,
+      "endFrameExclusive": 3158,
+      "durationInFrames": 39,
+      "text": "কারণ হাড়ে চাপ না পড়লে",
+      "rawBlock": "38\n00:01:43,960 --> 00:01:45,273\nকারণ হাড়ে চাপ না পড়লে\n"
+    },
+    {
+      "blockOrdinal": 39,
+      "sourceIndex": 39,
+      "sourceIndexText": "39",
+      "timestampLine": "00:01:45,343 --> 00:01:48,507",
+      "startTimestamp": "00:01:45,343 ",
+      "endTimestamp": " 00:01:48,507",
+      "startMs": 105343,
+      "endMs": 108507,
+      "startFrame": 3160,
+      "endFrameExclusive": 3255,
+      "durationInFrames": 95,
+      "text": "নতুন হাড় গড়ার ওয়ার্ক অর্ডারই তৈরি হয় না।",
+      "rawBlock": "39\n00:01:45,343 --> 00:01:48,507\nনতুন হাড় গড়ার ওয়ার্ক অর্ডারই তৈরি হয় না।\n"
+    },
+    {
+      "blockOrdinal": 40,
+      "sourceIndex": 40,
+      "sourceIndexText": "40",
+      "timestampLine": "00:01:48,577 --> 00:01:50,762",
+      "startTimestamp": "00:01:48,577 ",
+      "endTimestamp": " 00:01:50,762",
+      "startMs": 108577,
+      "endMs": 110762,
+      "startFrame": 3257,
+      "endFrameExclusive": 3323,
+      "durationInFrames": 66,
+      "text": "দুই। গোডাউনের তালা খুলতে নিয়মিত গায়ে রোদ লাগান,",
+      "rawBlock": "40\n00:01:48,577 --> 00:01:50,762\nদুই। গোডাউনের তালা খুলতে নিয়মিত গায়ে রোদ লাগান,\n"
+    },
+    {
+      "blockOrdinal": 41,
+      "sourceIndex": 41,
+      "sourceIndexText": "41",
+      "timestampLine": "00:01:50,832 --> 00:01:54,572",
+      "startTimestamp": "00:01:50,832 ",
+      "endTimestamp": " 00:01:54,572",
+      "startMs": 110832,
+      "endMs": 114572,
+      "startFrame": 3325,
+      "endFrameExclusive": 3437,
+      "durationInFrames": 112,
+      "text": "অথবা ভিটামিন ডি-থ্রি ও কে-টু নিশ্চিত করুন।",
+      "rawBlock": "41\n00:01:50,832 --> 00:01:54,572\nঅথবা ভিটামিন ডি-থ্রি ও কে-টু নিশ্চিত করুন।\n"
+    },
+    {
+      "blockOrdinal": 42,
+      "sourceIndex": 42,
+      "sourceIndexText": "42",
+      "timestampLine": "00:01:54,642 --> 00:01:56,292",
+      "startTimestamp": "00:01:54,642 ",
+      "endTimestamp": " 00:01:56,292",
+      "startMs": 114642,
+      "endMs": 116292,
+      "startFrame": 3439,
+      "endFrameExclusive": 3489,
+      "durationInFrames": 50,
+      "text": "আর তিন। কাঁটাসহ ছোট মাছ, টক দই,",
+      "rawBlock": "42\n00:01:54,642 --> 00:01:56,292\nআর তিন। কাঁটাসহ ছোট মাছ, টক দই,\n"
+    },
+    {
+      "blockOrdinal": 43,
+      "sourceIndex": 43,
+      "sourceIndexText": "43",
+      "timestampLine": "00:01:56,362 --> 00:01:58,795",
+      "startTimestamp": "00:01:56,362 ",
+      "endTimestamp": " 00:01:58,795",
+      "startMs": 116362,
+      "endMs": 118795,
+      "startFrame": 3491,
+      "endFrameExclusive": 3564,
+      "durationInFrames": 73,
+      "text": "তিল ও ডিম থেকে আসল কাঁচামাল নিন।",
+      "rawBlock": "43\n00:01:56,362 --> 00:01:58,795\nতিল ও ডিম থেকে আসল কাঁচামাল নিন।\n"
+    },
+    {
+      "blockOrdinal": 44,
+      "sourceIndex": 44,
+      "sourceIndexText": "44",
+      "timestampLine": "00:01:58,865 --> 00:02:01,915",
+      "startTimestamp": "00:01:58,865 ",
+      "endTimestamp": " 00:02:01,915",
+      "startMs": 118865,
+      "endMs": 121915,
+      "startFrame": 3566,
+      "endFrameExclusive": 3657,
+      "durationInFrames": 91,
+      "text": "মনে রাখবেন, হাড়কে শুধু ক্যালসিয়াম দেবেন না।",
+      "rawBlock": "44\n00:01:58,865 --> 00:02:01,915\nমনে রাখবেন, হাড়কে শুধু ক্যালসিয়াম দেবেন না।\n"
+    },
+    {
+      "blockOrdinal": 45,
+      "sourceIndex": 45,
+      "sourceIndexText": "45",
+      "timestampLine": "00:02:01,985 --> 00:02:04,578",
+      "startTimestamp": "00:02:01,985 ",
+      "endTimestamp": " 00:02:04,578",
+      "startMs": 121985,
+      "endMs": 124578,
+      "startFrame": 3660,
+      "endFrameExclusive": 3737,
+      "durationInFrames": 77,
+      "text": "হাড়কে শক্ত থাকার একটা কারণ দিন!",
+      "rawBlock": "45\n00:02:01,985 --> 00:02:04,578\nহাড়কে শক্ত থাকার একটা কারণ দিন!\n"
+    },
+    {
+      "blockOrdinal": 46,
+      "sourceIndex": 46,
+      "sourceIndexText": "46",
+      "timestampLine": "00:02:04,648 --> 00:02:07,481",
+      "startTimestamp": "00:02:04,648 ",
+      "endTimestamp": " 00:02:07,481",
+      "startMs": 124648,
+      "endMs": 127481,
+      "startFrame": 3739,
+      "endFrameExclusive": 3824,
+      "durationInFrames": 85,
+      "text": "এমন স্বাস্থ্যবিষয়ক সহজ ভিডিও পেতে",
+      "rawBlock": "46\n00:02:04,648 --> 00:02:07,481\nএমন স্বাস্থ্যবিষয়ক সহজ ভিডিও পেতে\n"
+    },
+    {
+      "blockOrdinal": 47,
+      "sourceIndex": 47,
+      "sourceIndexText": "47",
+      "timestampLine": "00:02:07,551 --> 00:02:09,116",
+      "startTimestamp": "00:02:07,551 ",
+      "endTimestamp": " 00:02:09,116",
+      "startMs": 127551,
+      "endMs": 129116,
+      "startFrame": 3827,
+      "endFrameExclusive": 3873,
+      "durationInFrames": 46,
+      "text": "এডুটক পেজটি ফলো করুন।",
+      "rawBlock": "47\n00:02:07,551 --> 00:02:09,116\nএডুটক পেজটি ফলো করুন।\n"
+    }
+  ],
+  "diagnostics": {
+    "coverage": [
+      {
+        "startMs": 50,
+        "endMs": 4223
+      },
+      {
+        "startMs": 4293,
+        "endMs": 5645
+      },
+      {
+        "startMs": 5715,
+        "endMs": 9141
+      },
+      {
+        "startMs": 9211,
+        "endMs": 13343
+      },
+      {
+        "startMs": 13413,
+        "endMs": 14367
+      },
+      {
+        "startMs": 14437,
+        "endMs": 17410
+      },
+      {
+        "startMs": 17480,
+        "endMs": 21563
+      },
+      {
+        "startMs": 21633,
+        "endMs": 24045
+      },
+      {
+        "startMs": 24115,
+        "endMs": 28226
+      },
+      {
+        "startMs": 28296,
+        "endMs": 32896
+      },
+      {
+        "startMs": 32966,
+        "endMs": 37018
+      },
+      {
+        "startMs": 37088,
+        "endMs": 39681
+      },
+      {
+        "startMs": 39751,
+        "endMs": 42447
+      },
+      {
+        "startMs": 42517,
+        "endMs": 46141
+      },
+      {
+        "startMs": 46211,
+        "endMs": 50754
+      },
+      {
+        "startMs": 50824,
+        "endMs": 52944
+      },
+      {
+        "startMs": 53014,
+        "endMs": 55498
+      },
+      {
+        "startMs": 55568,
+        "endMs": 57695
+      },
+      {
+        "startMs": 57765,
+        "endMs": 59546
+      },
+      {
+        "startMs": 59616,
+        "endMs": 62893
+      },
+      {
+        "startMs": 62963,
+        "endMs": 65557
+      },
+      {
+        "startMs": 65627,
+        "endMs": 68405
+      },
+      {
+        "startMs": 68475,
+        "endMs": 71780
+      },
+      {
+        "startMs": 71850,
+        "endMs": 74159
+      },
+      {
+        "startMs": 74229,
+        "endMs": 76897
+      },
+      {
+        "startMs": 76967,
+        "endMs": 80530
+      },
+      {
+        "startMs": 80600,
+        "endMs": 83078
+      },
+      {
+        "startMs": 83148,
+        "endMs": 84509
+      },
+      {
+        "startMs": 84579,
+        "endMs": 86755
+      },
+      {
+        "startMs": 86825,
+        "endMs": 89206
+      },
+      {
+        "startMs": 89276,
+        "endMs": 92553
+      },
+      {
+        "startMs": 92623,
+        "endMs": 94171
+      },
+      {
+        "startMs": 94241,
+        "endMs": 96465
+      },
+      {
+        "startMs": 96535,
+        "endMs": 99032
+      },
+      {
+        "startMs": 99102,
+        "endMs": 101781
+      },
+      {
+        "startMs": 101851,
+        "endMs": 103890
+      },
+      {
+        "startMs": 103960,
+        "endMs": 105273
+      },
+      {
+        "startMs": 105343,
+        "endMs": 108507
+      },
+      {
+        "startMs": 108577,
+        "endMs": 110762
+      },
+      {
+        "startMs": 110832,
+        "endMs": 114572
+      },
+      {
+        "startMs": 114642,
+        "endMs": 116292
+      },
+      {
+        "startMs": 116362,
+        "endMs": 118795
+      },
+      {
+        "startMs": 118865,
+        "endMs": 121915
+      },
+      {
+        "startMs": 121985,
+        "endMs": 124578
+      },
+      {
+        "startMs": 124648,
+        "endMs": 127481
+      },
+      {
+        "startMs": 127551,
+        "endMs": 129116
+      }
+    ],
+    "overlaps": [],
+    "gaps": [
+      {
+        "kind": "leading",
+        "startMs": 0,
+        "endMs": 50,
+        "durationMs": 50
+      },
+      {
+        "kind": "internal",
+        "startMs": 4223,
+        "endMs": 4293,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 5645,
+        "endMs": 5715,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 9141,
+        "endMs": 9211,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 13343,
+        "endMs": 13413,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 14367,
+        "endMs": 14437,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 17410,
+        "endMs": 17480,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 21563,
+        "endMs": 21633,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 24045,
+        "endMs": 24115,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 28226,
+        "endMs": 28296,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 32896,
+        "endMs": 32966,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 37018,
+        "endMs": 37088,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 39681,
+        "endMs": 39751,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 42447,
+        "endMs": 42517,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 46141,
+        "endMs": 46211,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 50754,
+        "endMs": 50824,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 52944,
+        "endMs": 53014,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 55498,
+        "endMs": 55568,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 57695,
+        "endMs": 57765,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 59546,
+        "endMs": 59616,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 62893,
+        "endMs": 62963,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 65557,
+        "endMs": 65627,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 68405,
+        "endMs": 68475,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 71780,
+        "endMs": 71850,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 74159,
+        "endMs": 74229,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 76897,
+        "endMs": 76967,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 80530,
+        "endMs": 80600,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 83078,
+        "endMs": 83148,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 84509,
+        "endMs": 84579,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 86755,
+        "endMs": 86825,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 89206,
+        "endMs": 89276,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 92553,
+        "endMs": 92623,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 94171,
+        "endMs": 94241,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 96465,
+        "endMs": 96535,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 99032,
+        "endMs": 99102,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 101781,
+        "endMs": 101851,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 103890,
+        "endMs": 103960,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 105273,
+        "endMs": 105343,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 108507,
+        "endMs": 108577,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 110762,
+        "endMs": 110832,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 114572,
+        "endMs": 114642,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 116292,
+        "endMs": 116362,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 118795,
+        "endMs": 118865,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 121915,
+        "endMs": 121985,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 124578,
+        "endMs": 124648,
+        "durationMs": 70
+      },
+      {
+        "kind": "internal",
+        "startMs": 127481,
+        "endMs": 127551,
+        "durationMs": 70
+      },
+      {
+        "kind": "trailing",
+        "startMs": 129116,
+        "endMs": 129307,
+        "durationMs": 191
+      }
+    ]
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "uncovered-intervals",
+      "message": "These intervals have no valid active cue; gaps can be intentional and were not removed.",
+      "gapCount": 47
+    }
+  ]
+}
